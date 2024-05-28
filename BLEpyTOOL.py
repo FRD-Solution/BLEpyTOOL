@@ -1,13 +1,13 @@
 # 
-# 
-# 
 # GITHUB release
 # THIS DOCUMENT IS PUBLIC
 # ANYONE IS FREE TO USE AND MODIFY IT
 # 
-# 
-# 
-# 
+# GNU GENERAL PUBLIC LICENSE
+#                       Version 3, 29 June 2007
+#
+# Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+# see "LICENSE" for more information
 
 
 import asyncio
